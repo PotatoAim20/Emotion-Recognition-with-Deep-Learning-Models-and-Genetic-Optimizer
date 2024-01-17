@@ -6,7 +6,7 @@ This repository encapsulates the research findings on emotion recognition throug
 
 ## Research Paper
 
-The detailed research paper is included in this repository: [Facial_Emotions_Recognition_Paper.docm](Emotion_Recognition_Research_Paper.pdf). It delves into the following key aspects:
+The detailed research paper is included in this repository: [Facial_Emotions_Recognition_Paper.docm](Facial_Emotions_Recognition_Paper.docm). It delves into the following key aspects:
 
 - **Utilization of Models:**
   - Exploration of ResNet50 and VGG16 models for emotion recognition.
